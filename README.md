@@ -1,1 +1,1 @@
-# ScriptableObjectArchitecture
+# Scriptable Object Architecture

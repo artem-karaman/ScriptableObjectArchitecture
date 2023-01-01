@@ -1,4 +1,4 @@
-# Scriptable Object Architecture
+# Scriptable Object Architecture From Open Project 1 (https://unity.com/open-projects)
 
 ## Tools:
 

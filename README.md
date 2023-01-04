@@ -1,4 +1,4 @@
-# Scriptable Object Architecture From Open Project 1 
+# Game architecture with scriptable objects
 
 [Unity Open project 1](https://github.com/UnityTechnologies/open-project-1)
 

@@ -1,4 +1,4 @@
-<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="602px" height="151px" viewBox="-0.5 -0.5 602 151" content="&lt;mxfile&gt;&lt;diagram id=&quot;DdrQGmDc9POvP1zXHAgu&quot; name=&quot;Page-1&quot;&gt;5ZhNc9MwEIZ/jWfgwlhW4jTHJk3hQIcZwgzlqFpbWyBLGVn54tcjx6vYrtJShpRAuDja1crSPnrltRPRabl5a9iiuNEcZJTEfBPRqyhJLuLUXWvHtnGkMWkcuRG8cXUcc/Ed0Bmjdyk4VL1Aq7W0YtF3ZlopyGzPx4zR637YvZb9WRcsh8Axz5gMvZ8FtwWmlYxa/zsQeeFnJum46SmZD8ZMqoJxve646CyiU6O1bVrlZgqyZue5NOOuH+ndL8yAss8ZgBtR2a3PDbhLFU2llfuZFLaUziKuCRthbzvtL64dvxmidVVvcOyNrTeUNdvbrtEZVZvtsJ3lxzVLq9fzaHLoqvTSZBiVoB6YyQGjhnuwTpCgS3CzuBADklmx6t+doTTyfVxLzzUQ4GGYOPWKySXe9DKzQquo3oRrd/1kRJ6DCZgbvVQcOHJdF8LCfMF2Ga3dAepvAU4CxsLmaTBhyn5AjPLD80dStNetmomXaNFRso/7HUqDgNKNVnoCBVsJt48BHJem7ROorNHfYKqlNq1I74WUD1xMilw5M3NYHHU6qaEJd4wvsaMUnNfTHETebkp8JOr0AXUaUk8PQKdHgD78V6RJkxNKcxRQ+shEBa9en68ok8HPeb+UKC8C3PPMiIVldy7/JP5w97Uu3meLPpD6gefBQakfgz0hAdjnVX5f3n+p8pM/UfnHp6v840DJs1W91CR+LyoL6i94sA4vTvhg9S/u/1/RT8npij4JX0gbOQqV7z6Zzhf7YHy6skZogH1aMPclKs+XN037vEcvhtuZ7efxrq/zHwOd/QA=&lt;/diagram&gt;&lt;/mxfile&gt;">
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="601px" height="151px" viewBox="-0.5 -0.5 601 151" content="&lt;mxfile&gt;&lt;diagram id=&quot;DdrQGmDc9POvP1zXHAgu&quot; name=&quot;Page-1&quot;&gt;5ZhRb9owEMc/TaTtZYpjCPBYUtpNWjVpTFr36MZu4s2xkWMC7NPPIecmqUPXakVU7AV8f5+x73eXXEKAk2J7rckqv1GUiSAK6TbAl0EUoWg0s1+1smuUGUaNkGlOwakVlvw3AzEEdc0pK3uORilh+KovpkpKlpqeRrRWm77bvRL9XVckY56wTInw1e+cmrxRp9Gk1T8ynuVuZxRDwAVxzhBJmROqNh0JLwKcaKVMMyq2CRM1PMelWXd1YPbhYJpJ85wFMRzD7FxsjNpQwZRK2q95bgphLWSHbMvNbWf8w47DD2OwLusMh87YOUMavbvtGp1Vtdku21tunR8LhFeqtU7huBGkn+iMgde4kepAOssg/mumCmZ3sQ6aCWJ41c8pgdLIHvxaenYAAIdhwlkqItbwoxep4UoGdRKu7Oc3zbOMaY+5VmtJGQWum5wbtlyRfYgbewX1U3AQS8W0YdsnQ3azIZQfXH8oBnvTVjNyJZp3Ktn5/QulkUfpRkk1ZzmpuE2sB8fGZPoESqPVL5YooXRbpPdciEcSETyT1kwtKUsdz2tC3F7GFzBRcErrbQaRt0l5shhfQB0/oo596vEAdPwK0Mce9EVVRxKFn2RlYb57f/KixNEJi3Li8flKeDmE5WzKMRr9nfexynHq4V6mmq8MubPxR+GXu5912z5b9F6pD9wJBkv9Ndgj5IF9Xs93jf1FPR8doefP3lDPnx28sX7mpWHyDXT78fSEN1b3yP7/tfsYna7dI/9RtClHLrP9y9L5Yh/NTtfWEPawJzmx76DifHnjuM97cjTc1mxfjPdznb8X8OIP&lt;/diagram&gt;&lt;/mxfile&gt;">
     <defs/>
     <g>
         <path d="M 120 120 L 213.63 120" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
@@ -44,13 +44,13 @@
                     <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 120px; margin-left: 221px;">
                         <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
                             <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
-                                Action / Trigger
+                                Event Invoke()
                             </div>
                         </div>
                     </div>
                 </foreignObject>
                 <text x="280" y="124" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
-                    Action / Trigger
+                    Event Invoke()
                 </text>
             </switch>
         </g>

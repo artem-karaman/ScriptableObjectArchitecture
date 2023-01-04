@@ -12,3 +12,9 @@
 
 ## Video
 - https://www.youtube.com/watch?v=6vmRwLYWNRo
+
+# Sample how to use scriptable objects:
+
+<p align="center">
+  <img src="https://github.com/artem-karaman/ScriptableObjectArchitecture/blob/master/architecture.drawio.svg" />
+</p>

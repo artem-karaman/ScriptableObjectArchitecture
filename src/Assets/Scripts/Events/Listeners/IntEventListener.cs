@@ -19,8 +19,6 @@ public class IntEventListener : MonoBehaviour
         }
             
     }
-    
-
     private void OnDisable()
     {
         if (_channel != null)
